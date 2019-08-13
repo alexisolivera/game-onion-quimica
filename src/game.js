@@ -11,6 +11,7 @@
             }
         },
         scene: {
+            /*lero lero*/
             preload: preload,
             create: create,
             update: update
