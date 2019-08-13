@@ -16,7 +16,7 @@
             update: update
         }
     };
-
+/* aca hay un comentario para probar git*/
     var player;
     var platforms;
     var score = 0;
